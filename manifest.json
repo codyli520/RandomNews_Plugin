@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "RandomNews Plugin",
+  "name": "Random News",
   "description": "This extension will give you a random news",
-  "version": "1.0",
+  "version": "1.2",
 
   "browser_action": {
    "default_icon": "icon16.png",
